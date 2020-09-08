@@ -11,3 +11,6 @@ Our task was to classify whether a news was fake or real. The emphasis has been 
 * Text data preprocessing (extract the words, lowercase, remove stopwords, stemming)
 * Application of TF-IDF (Term Frequency – Inverse Document Frequency)
 * Use predictive models suited to text classification (Naive Bayes, SVM)
+* Extract words most prone to discriminate between Fake and Real news through Logistic Regression coefficients
+* Use NMF and LDA to see if certain specific topics would emerge and be more prevalent in Real vs Fake news
+* Compare the results of ML algorithms with a DL approach, specifically a CNN model
